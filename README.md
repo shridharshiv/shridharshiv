@@ -20,7 +20,8 @@ Recent B.Tech graduate and aspiring Data Analyst with hands-on experience in SQL
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### Certifications
-- HackerRank SQL (Intermediate)
+- 🏆 HackerRank SQL (Intermediate)
+🔗 Credential Link :https://www.linkedin.com/posts/shridharhosagowdru_sql-intermediate-certification-hackerrank-ugcPost-7470743718749302785-f-NQ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFNsXRIBzBdVrsdqbsxnxG2uRLMmaClUf3A
 - Power BI Certification
 - Excel Certification
 
