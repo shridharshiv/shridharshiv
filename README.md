@@ -36,10 +36,10 @@ https://shridharshiv.github.io/portfolio/
 
 ## Connect With Me
 
-📧 Email: yourmail@gmail.com
+📧 Email: shridharhosagowdru2@gmail.com
 
 💼 LinkedIn:
-https://www.linkedin.com/in/your-linkedin-profile
+https://www.linkedin.com/in/shridharhosagowdru
 
 🌐 Portfolio:
 https://shridharshiv.github.io/portfolio/
