@@ -2,7 +2,7 @@
 
 ## Data Analyst | SQL | Python | Power BI | Excel
 
-Recent B.Tech graduate passionate about turning raw data into actionable insights.
+Recent B.Tech graduate and aspiring Data Analyst with hands-on experience in SQL, Python, Power BI, and Excel. Passionate about transforming raw data into meaningful insights that support business decision-making.
 
 ## GitHub Stats
 
