@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Shridhar 👋
 
-<!--
-**shridharshiv/shridharshiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst | SQL | Python | Power BI | Excel
 
-Here are some ideas to get you started:
+Recent B.Tech graduate passionate about turning raw data into actionable insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- SQL
+- Python
+- Power BI
+- Excel
+- Data Cleaning
+- Data Visualization
+- Pandas
+- NumPy
+
+### Certifications
+- HackerRank SQL (Intermediate)
+- Power BI Certification
+- Excel Certification
+
+### Featured Projects
+
+#### Customer Shopping Behavior Analysis
+- Data Cleaning
+- Exploratory Data Analysis
+- Customer Segmentation
+- Business Insights
+
+#### Portfolio Website
+Live Website:
+https://shridharshiv.github.io/portfolio/
+
+### Contact Me
+
+LinkedIn:
+www.linkedin.com/in/shridhar-shiv
+
+Email:
+your-email@gmail.com
