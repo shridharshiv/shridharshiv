@@ -4,6 +4,12 @@
 
 Recent B.Tech graduate passionate about turning raw data into actionable insights.
 
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shridharshiv&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shridharshiv&layout=compact&theme=github_dark)
+
 ## Skills
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
