@@ -34,7 +34,7 @@ https://shridharshiv.github.io/portfolio/
 ### Contact Me
 
 LinkedIn:
-www.linkedin.com/in/shridhar-shiv
+www.linkedin.com/in/shridharhosagowdru
 
 Email:
-your-email@gmail.com
+shridharhosagowdru2@gmail.com
