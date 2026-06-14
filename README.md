@@ -4,7 +4,6 @@
 
 Recent B.Tech graduate passionate about turning raw data into actionable insights.
 
-### Skills
 ## Skills
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
