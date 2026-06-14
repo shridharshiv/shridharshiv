@@ -34,10 +34,13 @@ Recent B.Tech graduate passionate about turning raw data into actionable insight
 Live Website:
 https://shridharshiv.github.io/portfolio/
 
-### Contact Me
+## Connect With Me
 
-LinkedIn:
-www.linkedin.com/in/shridharhosagowdru
+📧 Email: yourmail@gmail.com
 
-Email:
-shridharhosagowdru2@gmail.com
+💼 LinkedIn:
+https://www.linkedin.com/in/your-linkedin-profile
+
+🌐 Portfolio:
+https://shridharshiv.github.io/portfolio/
+
