@@ -44,3 +44,4 @@ https://www.linkedin.com/in/shridharhosagowdru
 🌐 Portfolio:
 https://shridharshiv.github.io/portfolio/
 
+![Visitors](https://komarev.com/ghpvc/?username=shridharshiv&color=blue)
