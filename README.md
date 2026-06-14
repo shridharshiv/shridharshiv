@@ -1,3 +1,6 @@
+<img scr="https://github.com/shridharshiv/imges/blob/main/GIT_BANNER_MAIN.png" width="100%">
+
+
 # Hi, I'm Shridhar 👋
 
 ## Data Analyst | SQL | Python | Power BI | Excel
